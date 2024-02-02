@@ -6,7 +6,7 @@
 
 - Role of reports: Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities.
 
-The Customer Performance report and Market Performance vs Target report are ther ein the sales_market_report.xlsx file.
+The Customer Performance report and Market Performance vs Target report are there in the sales_market_report.xlsx file.
 
 The objective of these reports is to provide answers to the following business inquiries:
 
